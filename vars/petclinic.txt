@@ -1,0 +1,6 @@
+<p>
+Petclinic directive
+</p>
+<pre>
+mavenProject()
+</pre>
